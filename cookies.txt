@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+iloveskininc.us	TRUE	/	FALSE	1999999999	_shopify_country	Vietnam
+iloveskininc.us	TRUE	/	FALSE	1999999999	_landing_page	%2Fblogs%2Fnews%2Fi-customized-a-serum-for-my-skin-and-wow-it-s-life-changing
+iloveskininc.us	TRUE	/	FALSE	1999999999	cart_currency	USD
+iloveskininc.us	TRUE	/	FALSE	1999999999	cart_sig	576d2e475b5bd0817eee917e44870a3d
+iloveskininc.us	TRUE	/	FALSE	1999999999	_y	cb7f54f1-8f39-428b-84fc-9acb18406ac2
+iloveskininc.us	TRUE	/	FALSE	1999999999	_s	d8a74109-6f20-4ae6-9890-7cde930fe45d
+iloveskininc.us	TRUE	/	FALSE	1999999999	_shopify_y	cb7f54f1-8f39-428b-84fc-9acb18406ac2
+iloveskininc.us	TRUE	/	FALSE	1999999999	_shopify_s	d8a74109-6f20-4ae6-9890-7cde930fe45d
+iloveskininc.us	TRUE	/	FALSE	1999999999	SameSite	Lax
+

@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Fri, 11 Feb 2022 15:52:26 at https://iloveskininc.us/blogs/news/i-customized-a-serum-for-my-skin-and-wow-it-s-life-changing
+(winhttrack https://iloveskininc.us/blogs/news/i-customized-a-serum-for-my-skin-and-wow-it-s-life-changing -O "/Users/shawn/websites/skinincrip1" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:52:31	Error: 	"Not Found" (404) at link https://iloveskininc.us/blogs/news/POST (from https://iloveskininc.us/blogs/news/i-customized-a-serum-for-my-skin-and-wow-it-s-life-changing)
+15:52:39	Error: 	"Not Found" (404) at link https://iloveskininc.us/blogs/news/www.iloveskininc.com (from https://iloveskininc.us/blogs/news/what-you-need-to-know-about-uv-radiation)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 13 links scanned, 10 files written (1386479 bytes overall) [461651 bytes received at 35511 bytes/sec], 1622029 bytes transferred using HTTP compression in 13 files, ratio 26%, 6.5 requests per connection
+(2 errors, 0 warnings, 0 messages)
